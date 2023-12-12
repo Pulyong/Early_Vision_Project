@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💻Filter Implementation
 CNN은 Filter 혹은 Kernel의 parameter를 업데이트 하며 Sliding Window를 수행합니다. 같은 개념으로 고정된 Weight를 가진 filter를 이용해서 Nosie를 제거할 수도 있고, Image를 Enhancing할 수도 있으며 경계를 찾아낼 수도 있습니다.  
 여러 Filter 중 Mean, Median, Gaussian Filter를 이용하여 Salt & Pepper, Impulse, Gaussian Noise를 제거하는 Filter와 이미지의 high frequency 부분을 강조하는 High-Boost Filter를 구현했습니다.
@@ -37,3 +38,6 @@ High-Boost Filter는 Sharpening에 사용되는 Filter입니다. Sharpening은 �
 
 ### Sub Low frequency
 ![image](https://github.com/Pulyong/Early_Vision_Project/assets/76218918/78652a81-f1f6-40c3-af35-40f897996662)
+=======
+
+>>>>>>> e78e40cafc54f2fd89478ccc0c958afd57d2aaf0
