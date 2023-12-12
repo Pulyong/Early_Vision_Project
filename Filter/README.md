@@ -37,6 +37,3 @@ High-Boost Filter는 Sharpening에 사용되는 Filter입니다. Sharpening은 �
 
 ### Sub Low frequency
 ![image](https://github.com/Pulyong/Early_Vision_Project/assets/76218918/78652a81-f1f6-40c3-af35-40f897996662)
-=======
-
->>>>>>> e78e40cafc54f2fd89478ccc0c958afd57d2aaf0
