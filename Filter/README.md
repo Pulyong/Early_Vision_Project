@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💻Filter Implementation
 CNN은 Filter 혹은 Kernel의 parameter를 업데이트 하며 Sliding Window를 수행합니다. 같은 개념으로 고정된 Weight를 가진 filter를 이용해서 Nosie를 제거할 수도 있고, Image를 Enhancing할 수도 있으며 경계를 찾아낼 수도 있습니다.  
 여러 Filter 중 Mean, Median, Gaussian Filter를 이용하여 Salt & Pepper, Impulse, Gaussian Noise를 제거하는 Filter와 이미지의 high frequency 부분을 강조하는 High-Boost Filter를 구현했습니다.
